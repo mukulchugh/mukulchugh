@@ -25,7 +25,7 @@
 
 - 📄 Reach out to me on Linkedin [https://linkedin.com/in/mukulchugh](https://linkedin.com/in/mukulchugh)
 
-- ⚡ Fun fact **I love**
+- ⚡ Fun fact **I love working out**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
