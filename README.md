@@ -30,6 +30,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [11+1 Creative Web Developer Portfolios for Inspiration - 2021](https://blog.mukulchugh.com/101-creative-web-developer-portfolios-for-inspiration-2021)
+- [Hello, World!](https://blog.mukulchugh.com/hello-world)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
