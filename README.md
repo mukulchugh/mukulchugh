@@ -10,9 +10,9 @@
 
 - 🔭 I’m currently pursuing **Bachelors in Computer Science & Engineering**
 
-- 🌱 I’m currently learning **ReactJS, React Native, TypeScript,Machine Learning**
+- 🌱 I’m currently learning **ReactJS, React Native, TypeScript, Cloud Computing**
 
-- 👯 I’m looking to collaborate on **frontend projects**
+- 👯 I’m looking to collaborate on **development projects**
 
 - 🤝 I can help you in your journey [as a developer](https://mukulchugh.com)
 
@@ -20,13 +20,13 @@
 
 - 📝 I regularly write articles on [https://blog.mukulchugh.com](https://blog.mukulchugh.com)
 
-- 💬 Ask me about **react, freelancing, JavaScript, Growth Hacking,Python, UI/UX Design, Wordpress**
+- 💬 Ask me about **react, freelancing, JavaScript, Growth Hacking, Python, UI/UX Design, Wordpress**
 
 - 📫 How to reach me **mukulchughofficial@gmail.com**
 
 - 📄 Reach out to me on Linkedin [https://linkedin.com/in/mukulchugh](https://linkedin.com/in/mukulchugh)
 
-- ⚡ Fun fact **I love JavaScript**
+- ⚡ Fun fact **I log Dogs 🐶**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
