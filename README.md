@@ -28,7 +28,7 @@
 
 - ⚡ Fun fact **I log Dogs 🐶**
 
-### Here's a Qoute for You :P
+### Here's a Qute to keep you motivated,  LOL 😛
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=vue-dark&animation=grow_out_in&layout=default&font=default)
 
 ### Blogs posts
