@@ -1,4 +1,4 @@
-<p><img align="center" src="https://mukulchugh.com/github-profile/mukulchugh.jpeg" alt="mukulchugh" /></p>
+<!-- <p><img align="center" src="https://mukulchugh.com/github-profile/mukulchugh.jpeg" alt="mukulchugh" /></p> -->
 <h1 align="center">Hi 👋, My Name is Mukul Chugh</h1>
 <h3 align="center">A passionate Developer & UI/UX Designer from India</h3>
 
