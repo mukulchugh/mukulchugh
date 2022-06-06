@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently pursuing **Bachelors in Computer Science & Engineering**
 
-- 🌱 I’m currently learning **ReactJS, React Native, TypeScript, Cloud Computing**
+- 🌱 I’m currently learning **ReactJS, React Native, TypeScript, Cloud Computing, Blockchain**
 
 - 👯 I’m looking to collaborate on **development projects**
 
@@ -20,7 +20,7 @@
 
 - 📝 I regularly write articles on [https://blog.mukulchugh.com](https://blog.mukulchugh.com)
 
-- 💬 Ask me about **react, freelancing, JavaScript, Growth Hacking, Python, UI/UX Design, Wordpress**
+- 💬 Ask me about **react, freelancing, JavaScript, Blockchain, ReactJS, React Native, Growth Hacking, Python, UI/UX Design, Wordpress**
 
 - 📫 How to reach me **mukulchughofficial@gmail.com**
 
