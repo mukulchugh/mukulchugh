@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently pursuing **Bachelors in Computer Science & Engineering**
 
-- 🌱 I’m currently learning **ReactJS, React Native, TypeScript, Cloud Computing, Blockchain**
+- 🌱 I’m currently learning **ReactJS, React Native, Python, Django, Cloud Computing, Blockchain**
 
 - 👯 I’m looking to collaborate on **development projects**
 
