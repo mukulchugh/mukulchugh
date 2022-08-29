@@ -1,6 +1,6 @@
 <!-- <p><img align="center" src="https://mukulchugh.com/github-profile/mukulchugh.jpeg" alt="mukulchugh" /></p> -->
 <h1 align="center">Hi 👋, My Name is Mukul Chugh</h1>
-<h3 align="center">A passionate FulL Stack Developer & UI/UX Designer from India</h3>
+<h3 align="center">A passionate Full Stack Developer & UI/UX Designer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mukulchugh&label=Profile%20views&color=0e75b6&style=flat" alt="mukulchugh" /> </p>
 
