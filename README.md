@@ -52,6 +52,8 @@
 <a href="/https://blog.mukulchugh.com/feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://blog.mukulchugh.com/feed/" height="30" width="40" /></a>
 </p>
 
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 <h3 align="left">Languages and Tools I Like:</h3>
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,django,docker,figma,github,graphql,ai,linux,mysql,netlify,nextjs,nodejs,postgres,py,react,redux,styledcomponents,tailwind,ts,wordpress,vite,vscode,firebase)](https://skillicons.dev)
 
