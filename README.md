@@ -54,9 +54,7 @@
 
 <h3 align="left">Languages and Tools I Like:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,django,docker,figma,github,graphql,ai,linux,mysql,netlify,nextjs,nodejs,postgres,py,react,redux,styledcomponents,tailwind,ts,wordpress,vite,vscode,firebase)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,django,docker,figma,github,graphql,ai,linux,mysql,netlify,nextjs,nodejs,postgres,py,react,redux,styledcomponents,tailwind,ts,wordpress,vite,vscode,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,django,docker,figma,github,graphql,ai,linux,mysql,netlify,nextjs,nodejs,postgres,py,react,redux,styledcomponents,tailwind,ts,wordpress,vite,vscode,firebase)](https://mukulchugh.com)
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/mukulchugh"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mukulchugh" /></a></p><br><br>
