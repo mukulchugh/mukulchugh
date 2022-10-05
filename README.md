@@ -55,9 +55,15 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,django,docker,figma,github,graphql,ai,linux,mysql,netlify,nextjs,nodejs,postgres,py,react,redux,styledcomponents,tailwind,ts,wordpress,vite,vscode,firebase)](https://mukulchugh.com)
 
+<div >
+
+<h3 align="left">Some Stats:</h3>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=mukulchugh&" alt="mukulchugh" /></p>
+
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mukulchugh&show_icons=true&locale=en&layout=compact" alt="mukulchugh" /></p>
+
+
+</div>
+
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/mukulchugh"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mukulchugh" /></a></p><br><br>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mukulchugh&show_icons=true&locale=en&layout=compact" alt="mukulchugh" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mukulchugh&" alt="mukulchugh" /></p>
