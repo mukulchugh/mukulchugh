@@ -26,13 +26,6 @@
 
 - ⚡ Fun fact **I log Dogs 🐶**
 
-### Here's a Quote to keep you motivated,  LOL 😛
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=vue-dark&animation=grow_out_in&layout=default&font=default)
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-- [11+1 Creative Web Developer Portfolios for Inspiration – 2021](https://blog.mukulchugh.com/101-creative-web-developer-portfolios-for-inspiration-2021-ckqc7g07400kigss16gp67te4/)
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
