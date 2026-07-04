@@ -16,3 +16,7 @@ More experiments — Mac apps, AI agents, and the occasional Rust rabbit hole �
 ### Elsewhere
 
 [Website](https://www.mukulchugh.com) · [LinkedIn](https://linkedin.com/in/mukulchugh) · [X](https://x.com/themukulchugh)
+
+---
+
+_Off the clock: a guitar now and then, and an unreasonable amount of coffee. ☕🎸_
