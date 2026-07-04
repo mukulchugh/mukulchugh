@@ -1,6 +1,6 @@
 # Mukul Chugh
 
-Design-first developer from India. I build products where the engineering gets out of the way and the experience doesn't.
+Engineer turned generalist. I love building — creating digital experiences for humans, and crossing into product, design, or code wherever the interesting problem is. The best software is the kind where the engineering gets out of the way and the experience doesn't.
 
 Currently building **[Quivly](https://quivly.ai)** — customer intelligence that surfaces the signal in customer health, revenue, and conversations. Previously at **Swiggy** and **Zenduty**.
 
